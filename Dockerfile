@@ -24,4 +24,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Define the entry point for the application
-ENTRYPOINT ["dotnet", "YourApp.dll"]
+CMD ["dotnet", "dotnet.dll"]
