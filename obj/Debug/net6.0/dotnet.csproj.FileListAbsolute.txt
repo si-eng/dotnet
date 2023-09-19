@@ -1,0 +1,15 @@
+C:\Users\sharmasakshi\Desktop\dotnet\bin\Debug\net6.0\dotnet.exe
+C:\Users\sharmasakshi\Desktop\dotnet\bin\Debug\net6.0\dotnet.deps.json
+C:\Users\sharmasakshi\Desktop\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+C:\Users\sharmasakshi\Desktop\dotnet\bin\Debug\net6.0\dotnet.dll
+C:\Users\sharmasakshi\Desktop\dotnet\bin\Debug\net6.0\dotnet.pdb
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.dll
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.pdb
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+C:\Users\sharmasakshi\Desktop\dotnet\obj\Debug\net6.0\ref\dotnet.dll
